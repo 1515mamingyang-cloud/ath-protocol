@@ -85,7 +85,8 @@ if __name__ == '__main__':
     print(f"鉴权状态: {auth_result['message']}")
     print(f"通信权限: {auth_result['data']['status']}")
     print("=" * 50)
-📄 协议标准
-完整协议规范文档：spec/ath-protocol-v1.0.md
-📄 开源协议
-本项目采用 Apache-2.0 开源协议，欢迎企业 / 开发者集成使用与贡献优化。
+---
+#📄 协议标准
+#完整协议规范文档：spec/ath-protocol-v1.0.md
+#📄 开源协议
+#本项目采用 Apache-2.0 开源协议，欢迎企业 / 开发者集成使用与贡献优化。
